@@ -54,16 +54,9 @@ if(songs.length === 0) {
              <img src={e.cover_image} alt=''/> 
 
            <div id='color-c'>
-           <strong><p>{e.song}</p></strong>
+           <p>{e.song}</p>
            <p>{e.artists} </p>
           </div>
-
-        
-            {/* <ReactAudioPlayer
-             src={e.url}
-             controls
-             id='play'
-             /> */}
 
            </div>
 

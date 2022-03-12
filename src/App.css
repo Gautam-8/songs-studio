@@ -42,12 +42,14 @@ border-radius: 12px;
   margin:0;
   font-size: medium;
   margin-left:5px;
-  font-style: italic;
- 
  padding:10px;
- color:#FFF9C4
+ color:#FAFAFA;
+ 
 }
 
+#color-c > p:nth-child(1){
+	font-weight: bolder;
+}
 #side{
  width:600px;
  
@@ -76,7 +78,6 @@ border-radius: 20px;
 
 #play{
   width:500px;
-  /* margin-top:25px; */
 }
 body{
   background-image: url('https://c0.wallpaperflare.com/preview/185/3/636/art-background-blue-color.jpg');
@@ -112,6 +113,8 @@ body{
 											  transparent 75%,
 											  transparent)
 }
+
+
 
 
 
