@@ -1,8 +1,6 @@
 
 ## Song Studio
 
-A web app for play songs with attractive design.
-
 **Demo Link** :- [Song Studio](https://songs-studio-gautam-8.vercel.app/)
 
 ## Screenshots
