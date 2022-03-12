@@ -41,8 +41,7 @@ if(songs.length === 0) {
 
     return(
 
-     
- 
+         
         <div id='box'>
 
         <div id='songs'>
