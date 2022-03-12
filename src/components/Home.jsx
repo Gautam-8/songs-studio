@@ -25,7 +25,7 @@ export const Home = () => {
    const handleClick = (e) => {
        setAlone(e);
        setAuto(true);
-       console.log('yes');
+     
    }
 
 useEffect(()=> {
